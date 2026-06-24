@@ -55,7 +55,7 @@ This project analyzes customer churn behavior in an e-commerce platform using SQ
 
 Phone users show the highest churn behavior.
 
-![Login Device Analysis](Churn by Preferred Login Device.png)
+![Login Device Analysis](Churn_by_Preferred_Login_Device.png)
 
 ---
 
@@ -71,7 +71,7 @@ Phone users show the highest churn behavior.
 
 Customers from Tier 3 cities are more likely to churn.
 
-![City Tier Analysis](Churn Rate by City Tier.png)
+![City Tier Analysis](Churn_Rate_by_City_Tier.png)
 
 ---
 
@@ -87,7 +87,7 @@ Customers from Tier 3 cities are more likely to churn.
 
 COD users show significantly higher churn compared to digital payment users.
 
-![Payment Mode Analysis](Churn Rate by Payment Mode.png)
+![Payment Mode Analysis](Churn Rate_by_Payment_Mode.png)
 
 ---
 
@@ -103,7 +103,7 @@ COD users show significantly higher churn compared to digital payment users.
 
 Single customers are more likely to leave the platform.
 
-![Marital Status Analysis](Churn Rate by Marital Status.png)
+![Marital Status Analysis](Churn_Rate_by_Marital_Status.png)
 
 ---
 
