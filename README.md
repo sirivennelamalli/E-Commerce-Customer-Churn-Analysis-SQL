@@ -87,7 +87,7 @@ Customers from Tier 3 cities are more likely to churn.
 
 COD users show significantly higher churn compared to digital payment users.
 
-![Payment Mode Analysis](Churn Rate_by_Payment_Mode.png)
+![Payment Mode Analysis](Churn_Rate_by_Payment_Mode.png)
 
 ---
 
